@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CW_Clones\CW_Clones\bin\Debug\CW_Clones.exe.config
+C:\Users\Admin\source\repos\CW_Clones\CW_Clones\bin\Debug\CW_Clones.exe
+C:\Users\Admin\source\repos\CW_Clones\CW_Clones\bin\Debug\CW_Clones.pdb
+C:\Users\Admin\source\repos\CW_Clones\CW_Clones\obj\Debug\CW_Clones.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CW_Clones\CW_Clones\obj\Debug\CW_Clones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CW_Clones\CW_Clones\obj\Debug\CW_Clones.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CW_Clones\CW_Clones\obj\Debug\CW_Clones.exe
+C:\Users\Admin\source\repos\CW_Clones\CW_Clones\obj\Debug\CW_Clones.pdb
